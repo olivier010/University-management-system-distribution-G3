@@ -10,6 +10,7 @@ import java.util.List;
 
 @Service
 @Transactional
+// below java block code is about lecturer service
 public class LecturerService {
 
     @Autowired
