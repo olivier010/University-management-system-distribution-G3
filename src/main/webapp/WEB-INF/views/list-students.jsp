@@ -3,6 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- below java code block is about to list all students registerd to university management distributed system
+    -->
     <title>University Management - Students</title>
     <style>
         :root {
